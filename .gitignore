@@ -21,3 +21,9 @@
 go.work
 go.work.sum
 *.csv
+
+# Intellij project files
+*.iml
+*.ipr
+*.iws
+.idea/
